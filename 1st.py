@@ -45,6 +45,7 @@ print"TIME ELAPSED IS %s SECS"%str(round(time_elapsed))
 '''
 1. Mention controls for the game.
 2. The game should be lost on pressing the wrong key
+3. Fix controls of the game	
 '''
 
 
