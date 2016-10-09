@@ -42,7 +42,10 @@ time_elapsed=time.time()-s_time
 print"\nCONGRATS YOU JUST FINISHED THE GAME!"
 print"TIME ELAPSED IS %s SECS"%str(round(time_elapsed))
 
-
+'''
+1. Mention controls for the game.
+2. The game should be lost on pressing the wrong key
+'''
 
 
 
